@@ -1,0 +1,196 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#Image1
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#AdvancedButton5
+{
+   border: 2px solid #FF0000;
+   border-radius: 4px;
+   background-color: #3370B7;
+   background-image: none;
+   margin: 0;
+}
+#AdvancedButton6
+{
+   border: 2px solid #FF0000;
+   border-radius: 4px;
+   background-color: #3370B7;
+   background-image: none;
+   margin: 0;
+}
+#AdvancedButton3
+{
+   border: 2px solid #FF0000;
+   border-radius: 4px;
+   background-color: #3370B7;
+   background-image: none;
+   margin: 0;
+}
+#AdvancedButton1
+{
+   border: 2px solid #FF0000;
+   border-radius: 4px;
+   background-color: #3370B7;
+   background-image: none;
+   margin: 0;
+}
+#Line1
+{
+   border-width: 0;
+   height: 8px;
+   width: 115px;
+}
+#Line2
+{
+   border-width: 0;
+   height: 10px;
+   width: 310px;
+}
+#Line3
+{
+   border-width: 0;
+   height: 116px;
+   width: 8px;
+}
+#Line4
+{
+   border-width: 0;
+   height: 64px;
+   width: 10px;
+}
+#Line5
+{
+   border-width: 0;
+   height: 63px;
+   width: 8px;
+}
+#AdvancedButton2
+{
+   border: 2px solid #FF0000;
+   border-radius: 4px;
+   background-color: #3370B7;
+   background-image: none;
+   margin: 0;
+}
+#Line6
+{
+   border-width: 0;
+   height: 8px;
+   width: 114px;
+}
+#wb_RadioButton1
+{
+   margin: 0;
+}
+#wb_RadioButton1, #wb_RadioButton1 *, #wb_RadioButton1 *::before, #wb_RadioButton1 *::after
+{
+   box-sizing: border-box;
+}
+#wb_RadioButton1 input[type='radio']
+{
+   position: absolute;
+   padding: 0;
+   margin: 0;
+   opacity: 0;
+   z-index: 1;
+   width: 20px;
+   height: 20px;
+   left: 0;
+   top: 0;
+}
+#wb_RadioButton1 label
+{
+   display: inline-block;
+   vertical-align: middle;
+   position: absolute;
+   left: 0;
+   top: 0;
+   width: 0;
+   height: 0;
+   padding: 0;
+}
+#wb_RadioButton1 label::before
+{
+   content: "";
+   display: inline-block;
+   position: absolute;
+   width: 20px;
+   height: 20px;
+   left: 0;
+   top: 0;
+   background-color: #FFFFFF;
+   border: 1px solid #CCCCCC;
+   border-radius: 50%;
+}
+#wb_RadioButton1 label::after
+{
+   display: inline-block;
+   position: absolute;
+   width: 20px;
+   height: 20px;
+   left: 0;
+   top: 0;
+   padding: 0;
+   text-align: center;
+   line-height: 20px;
+   border-radius: 50%;
+   color: #FFFFFF;
+   content: " ";
+   -webkit-transform: scale(0, 0);
+   -moz-transform: scale(0, 0);
+   transform: scale(0, 0);
+}
+#wb_RadioButton1 input[type='radio']:checked + label::after
+{
+   background-color: #3370B7;
+   background-image: none;
+   border-color: #3370B7;
+   -webkit-transform: scale(0.8, 0.8);
+   -moz-transform: scale(0.8, 0.8);
+   transform: scale(0.8, 0.8);
+}
+#wb_RadioButton1 input[type='radio']:focus + label::before
+{
+   outline: thin dotted;
+}
+#Shape2
+{
+   border-width: 0;
+}
+#Паша
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Анна_Титова
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}

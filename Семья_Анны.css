@@ -1,0 +1,101 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#Фон
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#AdvancedButton7
+{
+   border: 2px solid #FF0000;
+   border-radius: 4px;
+   background-color: #3370B7;
+   background-image: none;
+   margin: 0;
+}
+#AdvancedButton8
+{
+   border: 2px solid #FF0000;
+   border-radius: 4px;
+   background-color: #3370B7;
+   background-image: none;
+   margin: 0;
+}
+#AdvancedButton2
+{
+   border: 2px solid #FF0000;
+   border-radius: 4px;
+   background-color: #3370B7;
+   background-image: none;
+   margin: 0;
+}
+#AdvancedButton4
+{
+   border: 2px solid #FF0000;
+   border-radius: 4px;
+   background-color: #3370B7;
+   background-image: none;
+   margin: 0;
+}
+#Shape2
+{
+   border-width: 0;
+}
+#Line1
+{
+   border-width: 0;
+   height: 11px;
+   width: 108px;
+}
+#Line2
+{
+   border-width: 0;
+   height: 11px;
+   width: 304px;
+}
+#Line3
+{
+   border-width: 0;
+   height: 112px;
+   width: 11px;
+}
+#Line4
+{
+   border-width: 0;
+   height: 74px;
+   width: 8px;
+}
+#Line5
+{
+   border-width: 0;
+   height: 74px;
+   width: 8px;
+}
+#AdvancedButton1
+{
+   border: 2px solid #FF0000;
+   border-radius: 4px;
+   background-color: #3370B7;
+   background-image: none;
+   margin: 0;
+}
+#Line6
+{
+   border-width: 0;
+   height: 9px;
+   width: 114px;
+}

@@ -1,0 +1,501 @@
+body
+{
+   background-color: #FFDEAD;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#Shape2
+{
+   border-width: 0;
+}
+#Shape3
+{
+   border-width: 0;
+}
+#Shape6
+{
+   border-width: 0;
+}
+#Shape7
+{
+   border-width: 0;
+}
+#Shape10
+{
+   border-width: 0;
+}
+#Line1
+{
+   border-width: 0;
+   height: 9px;
+   width: 160px;
+}
+#Line2
+{
+   border-width: 0;
+   height: 9px;
+   width: 820px;
+}
+#Line3
+{
+   border-width: 0;
+   height: 127px;
+   width: 9px;
+}
+#Line4
+{
+   border-width: 0;
+   height: 73px;
+   width: 8px;
+}
+#Line5
+{
+   border-width: 0;
+   height: 73px;
+   width: 8px;
+}
+#Line6
+{
+   border-width: 0;
+   height: 73px;
+   width: 9px;
+}
+#Line7
+{
+   border-width: 0;
+   height: 73px;
+   width: 9px;
+}
+#Line8
+{
+   border-width: 0;
+   height: 111px;
+   width: 8px;
+}
+#Line9
+{
+   border-width: 0;
+   height: 111px;
+   width: 8px;
+}
+#Line10
+{
+   border-width: 0;
+   height: 111px;
+   width: 8px;
+}
+#Line11
+{
+   border-width: 0;
+   height: 111px;
+   width: 8px;
+}
+#Василий
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_RadioButton1
+{
+   margin: 0;
+}
+#wb_RadioButton1, #wb_RadioButton1 *, #wb_RadioButton1 *::before, #wb_RadioButton1 *::after
+{
+   box-sizing: border-box;
+}
+#wb_RadioButton1 input[type='radio']
+{
+   position: absolute;
+   padding: 0;
+   margin: 0;
+   opacity: 0;
+   z-index: 1;
+   width: 20px;
+   height: 20px;
+   left: 0;
+   top: 0;
+}
+#wb_RadioButton1 label
+{
+   display: inline-block;
+   vertical-align: middle;
+   position: absolute;
+   left: 0;
+   top: 0;
+   width: 0;
+   height: 0;
+   padding: 0;
+}
+#wb_RadioButton1 label::before
+{
+   content: "";
+   display: inline-block;
+   position: absolute;
+   width: 20px;
+   height: 20px;
+   left: 0;
+   top: 0;
+   background-color: #FFFFFF;
+   border: 1px solid #CCCCCC;
+   border-radius: 50%;
+}
+#wb_RadioButton1 label::after
+{
+   display: inline-block;
+   position: absolute;
+   width: 20px;
+   height: 20px;
+   left: 0;
+   top: 0;
+   padding: 0;
+   text-align: center;
+   line-height: 20px;
+   border-radius: 50%;
+   color: #FFFFFF;
+   content: " ";
+   -webkit-transform: scale(0, 0);
+   -moz-transform: scale(0, 0);
+   transform: scale(0, 0);
+}
+#wb_RadioButton1 input[type='radio']:checked + label::after
+{
+   background-color: #3370B7;
+   background-image: none;
+   border-color: #3370B7;
+   -webkit-transform: scale(0.8, 0.8);
+   -moz-transform: scale(0.8, 0.8);
+   transform: scale(0.8, 0.8);
+}
+#wb_RadioButton1 input[type='radio']:focus + label::before
+{
+   outline: thin dotted;
+}
+#wb_RadioButton2
+{
+   margin: 0;
+}
+#wb_RadioButton2, #wb_RadioButton2 *, #wb_RadioButton2 *::before, #wb_RadioButton2 *::after
+{
+   box-sizing: border-box;
+}
+#wb_RadioButton2 input[type='radio']
+{
+   position: absolute;
+   padding: 0;
+   margin: 0;
+   opacity: 0;
+   z-index: 1;
+   width: 20px;
+   height: 20px;
+   left: 0;
+   top: 0;
+}
+#wb_RadioButton2 label
+{
+   display: inline-block;
+   vertical-align: middle;
+   position: absolute;
+   left: 0;
+   top: 0;
+   width: 0;
+   height: 0;
+   padding: 0;
+}
+#wb_RadioButton2 label::before
+{
+   content: "";
+   display: inline-block;
+   position: absolute;
+   width: 20px;
+   height: 20px;
+   left: 0;
+   top: 0;
+   background-color: #FFFFFF;
+   border: 1px solid #CCCCCC;
+   border-radius: 50%;
+}
+#wb_RadioButton2 label::after
+{
+   display: inline-block;
+   position: absolute;
+   width: 20px;
+   height: 20px;
+   left: 0;
+   top: 0;
+   padding: 0;
+   text-align: center;
+   line-height: 20px;
+   border-radius: 50%;
+   color: #FFFFFF;
+   content: " ";
+   -webkit-transform: scale(0, 0);
+   -moz-transform: scale(0, 0);
+   transform: scale(0, 0);
+}
+#wb_RadioButton2 input[type='radio']:checked + label::after
+{
+   background-color: #3370B7;
+   background-image: none;
+   border-color: #3370B7;
+   -webkit-transform: scale(0.8, 0.8);
+   -moz-transform: scale(0.8, 0.8);
+   transform: scale(0.8, 0.8);
+}
+#wb_RadioButton2 input[type='radio']:focus + label::before
+{
+   outline: thin dotted;
+}
+#wb_RadioButton3
+{
+   margin: 0;
+}
+#wb_RadioButton3, #wb_RadioButton3 *, #wb_RadioButton3 *::before, #wb_RadioButton3 *::after
+{
+   box-sizing: border-box;
+}
+#wb_RadioButton3 input[type='radio']
+{
+   position: absolute;
+   padding: 0;
+   margin: 0;
+   opacity: 0;
+   z-index: 1;
+   width: 20px;
+   height: 20px;
+   left: 0;
+   top: 0;
+}
+#wb_RadioButton3 label
+{
+   display: inline-block;
+   vertical-align: middle;
+   position: absolute;
+   left: 0;
+   top: 0;
+   width: 0;
+   height: 0;
+   padding: 0;
+}
+#wb_RadioButton3 label::before
+{
+   content: "";
+   display: inline-block;
+   position: absolute;
+   width: 20px;
+   height: 20px;
+   left: 0;
+   top: 0;
+   background-color: #FFFFFF;
+   border: 1px solid #CCCCCC;
+   border-radius: 50%;
+}
+#wb_RadioButton3 label::after
+{
+   display: inline-block;
+   position: absolute;
+   width: 20px;
+   height: 20px;
+   left: 0;
+   top: 0;
+   padding: 0;
+   text-align: center;
+   line-height: 20px;
+   border-radius: 50%;
+   color: #FFFFFF;
+   content: " ";
+   -webkit-transform: scale(0, 0);
+   -moz-transform: scale(0, 0);
+   transform: scale(0, 0);
+}
+#wb_RadioButton3 input[type='radio']:checked + label::after
+{
+   background-color: #3370B7;
+   background-image: none;
+   border-color: #3370B7;
+   -webkit-transform: scale(0.8, 0.8);
+   -moz-transform: scale(0.8, 0.8);
+   transform: scale(0.8, 0.8);
+}
+#wb_RadioButton3 input[type='radio']:focus + label::before
+{
+   outline: thin dotted;
+}
+#wb_RadioButton4
+{
+   margin: 0;
+}
+#wb_RadioButton4, #wb_RadioButton4 *, #wb_RadioButton4 *::before, #wb_RadioButton4 *::after
+{
+   box-sizing: border-box;
+}
+#wb_RadioButton4 input[type='radio']
+{
+   position: absolute;
+   padding: 0;
+   margin: 0;
+   opacity: 0;
+   z-index: 1;
+   width: 20px;
+   height: 20px;
+   left: 0;
+   top: 0;
+}
+#wb_RadioButton4 label
+{
+   display: inline-block;
+   vertical-align: middle;
+   position: absolute;
+   left: 0;
+   top: 0;
+   width: 0;
+   height: 0;
+   padding: 0;
+}
+#wb_RadioButton4 label::before
+{
+   content: "";
+   display: inline-block;
+   position: absolute;
+   width: 20px;
+   height: 20px;
+   left: 0;
+   top: 0;
+   background-color: #FFFFFF;
+   border: 1px solid #CCCCCC;
+   border-radius: 50%;
+}
+#wb_RadioButton4 label::after
+{
+   display: inline-block;
+   position: absolute;
+   width: 20px;
+   height: 20px;
+   left: 0;
+   top: 0;
+   padding: 0;
+   text-align: center;
+   line-height: 20px;
+   border-radius: 50%;
+   color: #FFFFFF;
+   content: " ";
+   -webkit-transform: scale(0, 0);
+   -moz-transform: scale(0, 0);
+   transform: scale(0, 0);
+}
+#wb_RadioButton4 input[type='radio']:checked + label::after
+{
+   background-color: #3370B7;
+   background-image: none;
+   border-color: #3370B7;
+   -webkit-transform: scale(0.8, 0.8);
+   -moz-transform: scale(0.8, 0.8);
+   transform: scale(0.8, 0.8);
+}
+#wb_RadioButton4 input[type='radio']:focus + label::before
+{
+   outline: thin dotted;
+}
+#Shape11
+{
+   border-width: 0;
+}
+#AdvancedButton3
+{
+   border: 1px solid #FF0000;
+   border-radius: 4px;
+   background-color: #4682B4;
+   background-image: none;
+   margin: 0;
+}
+#AdvancedButton1
+{
+   border: 1px solid #FF0000;
+   border-radius: 4px;
+   background-color: #4682B4;
+   background-image: none;
+   margin: 0;
+}
+#AdvancedButton2
+{
+   border: 1px solid #FF0000;
+   border-radius: 4px;
+   background-color: #4682B4;
+   background-image: none;
+   margin: 0;
+}
+#Анна_Анфимовна
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#AdvancedButton4
+{
+   border: 1px solid #FF0000;
+   border-radius: 4px;
+   background-color: #4682B4;
+   background-image: none;
+   margin: 0;
+}
+#AdvancedButton5
+{
+   border: 1px solid #FF0000;
+   border-radius: 4px;
+   background-color: #4682B4;
+   background-image: none;
+   margin: 0;
+}
+#Николай_Васильевич
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Валентина_Ник_Вас
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Валерий_Филлипович
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Нина_Васильевна
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
