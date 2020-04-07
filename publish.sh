@@ -1,6 +1,6 @@
 #!/bin/sh
 
-CURRENT_DATE=$(%d%m%Y)
+CURRENT_DATE=date
 git add .
 git commit -m "Update from $CURRENT_DATE"
 git push GitHub master
