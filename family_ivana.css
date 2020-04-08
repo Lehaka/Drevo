@@ -21,3 +21,106 @@ body
    font-size: 13px;
    margin: 0;
 }
+#Image1
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#AdvancedButton2
+{
+   border: 2px solid #DC143C;
+   border-radius: 5px;
+   background-color: #3370B7;
+   background-image: none;
+   margin: 0;
+}
+#Line1
+{
+   border-color: #FF0000;
+   border-style: solid;
+   border-bottom-width: 2px;
+   border-top: 0px;
+   border-left: 0px;
+   border-right: 0px;
+   height: 0 !important;
+   line-height: 0px !important;
+   margin: 0;
+   padding: 0;
+}
+#Line2
+{
+   border-width: 0;
+   height: 12px;
+   width: 380px;
+}
+#Line3
+{
+   border-width: 0;
+   height: 161px;
+   width: 10px;
+}
+#AdvancedButton3
+{
+   border: 2px solid #FF0000;
+   border-radius: 5px;
+   background-color: #3370B7;
+   background-image: none;
+   margin: 0;
+}
+#AdvancedButton4
+{
+   border: 2px solid #FF0000;
+   border-radius: 5px;
+   background-color: #3370B7;
+   background-image: none;
+   margin: 0;
+}
+#Line4
+{
+   border-width: 0;
+   height: 79px;
+   width: 9px;
+}
+#Line5
+{
+   border-width: 0;
+   height: 82px;
+   width: 9px;
+}
+#Иван
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Вера_Гавр
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Shape1
+{
+   border-width: 0;
+}
+#AdvancedButton1
+{
+   border: 2px solid #FF0000;
+   border-radius: 5px;
+   background-color: #3370B7;
+   background-image: none;
+   margin: 0;
+}

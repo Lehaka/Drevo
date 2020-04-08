@@ -9,3 +9,39 @@ body
    margin: 0;
    padding: 0;
 }
+#Image1
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Shape2
+{
+   border-width: 0;
+}
+#AdvancedButton3
+{
+   border: 2px solid #FF0000;
+   border-radius: 4px;
+   background-color: #3370B7;
+   background-image: none;
+   margin: 0;
+}
+#AdvancedButton1
+{
+   border: 2px solid #FF0000;
+   border-radius: 4px;
+   background-color: #3370B7;
+   background-image: none;
+   margin: 0;
+}
+#Line1
+{
+   border-width: 0;
+   height: 12px;
+   width: 150px;
+}

@@ -1,13 +1,20 @@
+div#container
+{
+   width: 970px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
 body
 {
-   background-color: #FFFFFF;
+   background-color: #FFE4B5;
    color: #000000;
    font-family: Arial;
    font-weight: normal;
    font-size: 13px;
    line-height: 1.1875;
    margin: 0;
-   padding: 0;
+   text-align: center;
 }
 #Image1
 {
@@ -19,23 +26,19 @@ body
    width: 100%;
    height: 100%;
 }
-#Shape1
+#AdvancedButton4
 {
-   border-width: 0;
-}
-#AdvancedButton1
-{
-   border: 2px solid #FF0000;
-   border-radius: 5px;
-   background-color: #3370B7;
+   border: 1px solid #FF0000;
+   border-radius: 4px;
+   background-color: #4682B4;
    background-image: none;
    margin: 0;
 }
-#AdvancedButton2
+#AdvancedButton10
 {
-   border: 2px solid #FF0000;
-   border-radius: 5px;
-   background-color: #3370B7;
+   border: 1px solid #FF0000;
+   border-radius: 4px;
+   background-color: #4682B4;
    background-image: none;
    margin: 0;
 }
@@ -43,47 +46,97 @@ body
 {
    border-width: 0;
    height: 9px;
-   width: 155px;
+   width: 129px;
+}
+#Shape1
+{
+   border-width: 0;
+}
+#Shape2
+{
+   border-width: 0;
+}
+#Shape3
+{
+   border-width: 0;
 }
 #Line2
 {
    border-width: 0;
-   height: 154px;
-   width: 11px;
-}
-#Line3
-{
-   border-width: 0;
-   height: 8px;
-   width: 686px;
-}
-#AdvancedButton3
-{
-   border: 2px solid #FF0000;
-   border-radius: 5px;
-   background-color: #3370B7;
-   background-image: none;
-   margin: 0;
+   height: 10px;
+   width: 609px;
 }
 #Line4
 {
    border-width: 0;
-   height: 99px;
+   height: 71px;
    width: 8px;
 }
-#AdvancedButton4
+#Line6
 {
-   border: 2px solid #FF0000;
-   border-radius: 5px;
-   background-color: #3370B7;
-   background-image: none;
-   margin: 0;
+   border-width: 0;
+   height: 68px;
+   width: 9px;
+}
+#Shape4
+{
+   border-width: 0;
+}
+#Shape5
+{
+   border-width: 0;
+}
+#Shape6
+{
+   border-width: 0;
+}
+#Line3
+{
+   border-width: 0;
+   height: 196px;
+   width: 11px;
 }
 #Line5
 {
    border-width: 0;
-   height: 104px;
+   height: 109px;
+   width: 9px;
+}
+#Line7
+{
+   border-width: 0;
+   height: 109px;
    width: 8px;
+}
+#Line8
+{
+   border-width: 0;
+   height: 109px;
+   width: 9px;
+}
+#Shape7
+{
+   border-width: 0;
+}
+#Ефим
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Анастасия_Николаевна
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
 }
 #wb_RadioButton1
 {
@@ -159,62 +212,6 @@ body
 #wb_RadioButton1 input[type='radio']:focus + label::before
 {
    outline: thin dotted;
-}
-#AdvancedButton5
-{
-   border: 2px solid #FF0000;
-   border-radius: 5px;
-   background-color: #3370B7;
-   background-image: none;
-   margin: 0;
-}
-#AdvancedButton6
-{
-   border: 2px solid #FF0000;
-   border-radius: 5px;
-   background-color: #3370B7;
-   background-image: none;
-   margin: 0;
-}
-#AdvancedButton7
-{
-   border: 2px solid #FF0000;
-   border-radius: 5px;
-   background-color: #3370B7;
-   background-image: none;
-   margin: 0;
-}
-#AdvancedButton8
-{
-   border: 2px solid #FF0000;
-   border-radius: 5px;
-   background-color: #3370B7;
-   background-image: none;
-   margin: 0;
-}
-#Line6
-{
-   border-width: 0;
-   height: 98px;
-   width: 8px;
-}
-#Line7
-{
-   border-width: 0;
-   height: 104px;
-   width: 8px;
-}
-#Line8
-{
-   border-width: 0;
-   height: 98px;
-   width: 9px;
-}
-#Line9
-{
-   border-width: 0;
-   height: 105px;
-   width: 8px;
 }
 #wb_RadioButton2
 {
@@ -365,24 +362,4 @@ body
 #wb_RadioButton3 input[type='radio']:focus + label::before
 {
    outline: thin dotted;
-}
-#Александр_Никит
-{
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#Таисия_Мак
-{
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
 }
