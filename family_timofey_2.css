@@ -21,10 +21,16 @@ body
 #Shape3
 {
    border-width: 0;
+   vertical-align: top;
 }
 #Shape8
 {
    border-width: 0;
+   vertical-align: top;
+}
+#wb_Line1
+{
+   font-size: 0;
 }
 #Line1
 {
@@ -35,6 +41,7 @@ body
 #Shape1
 {
    border-width: 0;
+   vertical-align: top;
 }
 #AdvancedButton1
 {
@@ -52,11 +59,19 @@ body
    background-image: none;
    margin: 0;
 }
+#wb_Line2
+{
+   font-size: 0;
+}
 #Line2
 {
    border-width: 0;
    height: 10px;
    width: 147px;
+}
+#wb_Line3
+{
+   font-size: 0;
 }
 #Line3
 {
@@ -64,11 +79,19 @@ body
    height: 54px;
    width: 8px;
 }
+#wb_Line5
+{
+   font-size: 0;
+}
 #Line5
 {
    border-width: 0;
    height: 103px;
    width: 8px;
+}
+#wb_Line4
+{
+   font-size: 0;
 }
 #Line4
 {

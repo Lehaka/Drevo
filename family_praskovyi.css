@@ -51,11 +51,19 @@ body
    background-image: none;
    margin: 0;
 }
+#wb_Line1
+{
+   font-size: 0;
+}
 #Line1
 {
    border-width: 0;
    height: 8px;
    width: 115px;
+}
+#wb_Line2
+{
+   font-size: 0;
 }
 #Line2
 {
@@ -63,17 +71,29 @@ body
    height: 10px;
    width: 310px;
 }
+#wb_Line3
+{
+   font-size: 0;
+}
 #Line3
 {
    border-width: 0;
    height: 116px;
    width: 8px;
 }
+#wb_Line4
+{
+   font-size: 0;
+}
 #Line4
 {
    border-width: 0;
    height: 64px;
    width: 10px;
+}
+#wb_Line5
+{
+   font-size: 0;
 }
 #Line5
 {
@@ -88,6 +108,10 @@ body
    background-color: #3370B7;
    background-image: none;
    margin: 0;
+}
+#wb_Line6
+{
+   font-size: 0;
 }
 #Line6
 {
@@ -173,6 +197,7 @@ body
 #Shape2
 {
    border-width: 0;
+   vertical-align: top;
 }
 #Паша
 {

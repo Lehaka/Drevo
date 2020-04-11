@@ -42,6 +42,10 @@ body
    background-image: none;
    margin: 0;
 }
+#wb_Line1
+{
+   font-size: 0;
+}
 #Line1
 {
    border-width: 0;
@@ -51,14 +55,21 @@ body
 #Shape1
 {
    border-width: 0;
+   vertical-align: top;
 }
 #Shape2
 {
    border-width: 0;
+   vertical-align: top;
 }
 #Shape3
 {
    border-width: 0;
+   vertical-align: top;
+}
+#wb_Line2
+{
+   font-size: 0;
 }
 #Line2
 {
@@ -66,11 +77,19 @@ body
    height: 10px;
    width: 609px;
 }
+#wb_Line4
+{
+   font-size: 0;
+}
 #Line4
 {
    border-width: 0;
    height: 71px;
    width: 8px;
+}
+#wb_Line6
+{
+   font-size: 0;
 }
 #Line6
 {
@@ -81,14 +100,21 @@ body
 #Shape4
 {
    border-width: 0;
+   vertical-align: top;
 }
 #Shape5
 {
    border-width: 0;
+   vertical-align: top;
 }
 #Shape6
 {
    border-width: 0;
+   vertical-align: top;
+}
+#wb_Line3
+{
+   font-size: 0;
 }
 #Line3
 {
@@ -96,17 +122,29 @@ body
    height: 196px;
    width: 11px;
 }
+#wb_Line5
+{
+   font-size: 0;
+}
 #Line5
 {
    border-width: 0;
    height: 109px;
    width: 9px;
 }
+#wb_Line7
+{
+   font-size: 0;
+}
 #Line7
 {
    border-width: 0;
    height: 109px;
    width: 8px;
+}
+#wb_Line8
+{
+   font-size: 0;
 }
 #Line8
 {
@@ -117,6 +155,7 @@ body
 #Shape7
 {
    border-width: 0;
+   vertical-align: top;
 }
 #Ефим
 {

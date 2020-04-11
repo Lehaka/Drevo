@@ -160,46 +160,57 @@ body
 #Shape1
 {
    border-width: 0;
+   vertical-align: top;
 }
 #Shape2
 {
    border-width: 0;
+   vertical-align: top;
 }
 #Shape3
 {
    border-width: 0;
+   vertical-align: top;
 }
 #Shape4
 {
    border-width: 0;
+   vertical-align: top;
 }
 #Shape5
 {
    border-width: 0;
+   vertical-align: top;
 }
 #Shape6
 {
    border-width: 0;
+   vertical-align: top;
 }
 #Shape7
 {
    border-width: 0;
+   vertical-align: top;
 }
 #Shape8
 {
    border-width: 0;
+   vertical-align: top;
 }
 #Shape9
 {
    border-width: 0;
+   vertical-align: top;
 }
 #Shape10
 {
    border-width: 0;
+   vertical-align: top;
 }
 #Shape11
 {
    border-width: 0;
+   vertical-align: top;
 }
 #wb_RadioButton1
 {
@@ -654,12 +665,21 @@ body
 #Shape12
 {
    border-width: 0;
+   vertical-align: top;
+}
+#wb_Line17
+{
+   font-size: 0;
 }
 #Line17
 {
    border-width: 0;
    height: 57px;
    width: 8px;
+}
+#wb_Line2
+{
+   font-size: 0;
 }
 #Line2
 {
@@ -670,6 +690,7 @@ body
 #Shape13
 {
    border-width: 0;
+   vertical-align: top;
 }
 #Титовна
 {
@@ -684,6 +705,11 @@ body
 #Shape14
 {
    border-width: 0;
+   vertical-align: top;
+}
+#wb_Line6
+{
+   font-size: 0;
 }
 #Line6
 {

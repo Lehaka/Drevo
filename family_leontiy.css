@@ -185,6 +185,7 @@ body
 #Shape1
 {
    border-width: 0;
+   vertical-align: top;
 }
 #Леонтий
 {
@@ -209,6 +210,7 @@ body
 #Shape2
 {
    border-width: 0;
+   vertical-align: top;
 }
 #wb_RadioButton1
 {

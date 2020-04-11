@@ -52,11 +52,19 @@ body
    margin: 0;
    padding: 0;
 }
+#wb_Line2
+{
+   font-size: 0;
+}
 #Line2
 {
    border-width: 0;
    height: 12px;
    width: 380px;
+}
+#wb_Line3
+{
+   font-size: 0;
 }
 #Line3
 {
@@ -80,11 +88,19 @@ body
    background-image: none;
    margin: 0;
 }
+#wb_Line4
+{
+   font-size: 0;
+}
 #Line4
 {
    border-width: 0;
    height: 79px;
    width: 9px;
+}
+#wb_Line5
+{
+   font-size: 0;
 }
 #Line5
 {
@@ -115,6 +131,7 @@ body
 #Shape1
 {
    border-width: 0;
+   vertical-align: top;
 }
 #AdvancedButton1
 {

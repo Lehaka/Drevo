@@ -54,6 +54,11 @@ body
 #Shape2
 {
    border-width: 0;
+   vertical-align: top;
+}
+#wb_Line1
+{
+   font-size: 0;
 }
 #Line1
 {
@@ -61,11 +66,19 @@ body
    height: 11px;
    width: 108px;
 }
+#wb_Line2
+{
+   font-size: 0;
+}
 #Line2
 {
    border-width: 0;
    height: 11px;
    width: 304px;
+}
+#wb_Line3
+{
+   font-size: 0;
 }
 #Line3
 {
@@ -73,11 +86,19 @@ body
    height: 112px;
    width: 11px;
 }
+#wb_Line4
+{
+   font-size: 0;
+}
 #Line4
 {
    border-width: 0;
    height: 74px;
    width: 8px;
+}
+#wb_Line5
+{
+   font-size: 0;
 }
 #Line5
 {
@@ -92,6 +113,10 @@ body
    background-color: #3370B7;
    background-image: none;
    margin: 0;
+}
+#wb_Line6
+{
+   font-size: 0;
 }
 #Line6
 {

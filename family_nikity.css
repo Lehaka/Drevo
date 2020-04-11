@@ -205,6 +205,11 @@ body
 #Shape1
 {
    border-width: 0;
+   vertical-align: top;
+}
+#wb_Line10
+{
+   font-size: 0;
 }
 #Line10
 {
@@ -212,11 +217,19 @@ body
    height: 93px;
    width: 10px;
 }
+#wb_Line12
+{
+   font-size: 0;
+}
 #Line12
 {
    border-width: 0;
    height: 93px;
    width: 9px;
+}
+#wb_Line13
+{
+   font-size: 0;
 }
 #Line13
 {
@@ -224,11 +237,19 @@ body
    height: 92px;
    width: 8px;
 }
+#wb_Line11
+{
+   font-size: 0;
+}
 #Line11
 {
    border-width: 0;
    height: 93px;
    width: 8px;
+}
+#wb_Line14
+{
+   font-size: 0;
 }
 #Line14
 {

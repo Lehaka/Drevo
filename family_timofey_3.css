@@ -22,10 +22,12 @@ body
 #Shape1
 {
    border-width: 0;
+   vertical-align: top;
 }
 #Shape2
 {
    border-width: 0;
+   vertical-align: top;
 }
 #AdvancedButton1
 {
@@ -67,11 +69,19 @@ body
    background-image: none;
    margin: 0;
 }
+#wb_Line1
+{
+   font-size: 0;
+}
 #Line1
 {
    border-width: 0;
    height: 9px;
    width: 99px;
+}
+#wb_Line2
+{
+   font-size: 0;
 }
 #Line2
 {
@@ -79,11 +89,19 @@ body
    height: 9px;
    width: 684px;
 }
+#wb_Line3
+{
+   font-size: 0;
+}
 #Line3
 {
    border-width: 0;
    height: 124px;
    width: 10px;
+}
+#wb_Line4
+{
+   font-size: 0;
 }
 #Line4
 {
@@ -91,11 +109,19 @@ body
    height: 75px;
    width: 9px;
 }
+#wb_Line5
+{
+   font-size: 0;
+}
 #Line5
 {
    border-width: 0;
    height: 76px;
    width: 8px;
+}
+#wb_Line6
+{
+   font-size: 0;
 }
 #Line6
 {
@@ -103,11 +129,19 @@ body
    height: 76px;
    width: 9px;
 }
+#wb_Line7
+{
+   font-size: 0;
+}
 #Line7
 {
    border-width: 0;
    height: 119px;
    width: 8px;
+}
+#wb_Line8
+{
+   font-size: 0;
 }
 #Line8
 {
@@ -268,4 +302,5 @@ body
 #Shape3
 {
    border-width: 0;
+   vertical-align: top;
 }
