@@ -54,14 +54,6 @@ body
    height: 8px;
    width: 686px;
 }
-#AdvancedButton3
-{
-   border: 2px solid #FF0000;
-   border-radius: 5px;
-   background-color: #3370B7;
-   background-image: none;
-   margin: 0;
-}
 #wb_Line4
 {
    font-size: 0;
@@ -387,16 +379,6 @@ body
 {
    outline: thin dotted;
 }
-#Александр_Никит
-{
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
 #Shape2
 {
    border-width: 0;
@@ -408,6 +390,24 @@ body
    vertical-align: top;
 }
 #Таисия
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#AdvancedButton1
+{
+   border: 2px solid #FF0000;
+   border-radius: 5px;
+   background-color: #3370B7;
+   background-image: none;
+   margin: 0;
+}
+#Александр_Никит
 {
    border: 0px solid #000000;
    padding: 0;
