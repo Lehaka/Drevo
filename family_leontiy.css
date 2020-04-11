@@ -187,26 +187,6 @@ body
    border-width: 0;
    vertical-align: top;
 }
-#Леонтий
-{
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#Анна_Федоровна
-{
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
 #Shape2
 {
    border-width: 0;
@@ -458,6 +438,26 @@ body
    height: 100%;
 }
 #Владим_Леонт
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Анна_Федоровна
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Леонтий
 {
    border: 0px solid #000000;
    padding: 0;

@@ -154,16 +154,6 @@ body
    height: 111px;
    width: 8px;
 }
-#Василий
-{
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
 #wb_RadioButton1
 {
    margin: 0;
@@ -550,6 +540,16 @@ body
    height: 100%;
 }
 #Анна_Анфимовна
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Василий
 {
    border: 0px solid #000000;
    padding: 0;

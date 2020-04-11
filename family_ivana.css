@@ -80,14 +80,6 @@ body
    background-image: none;
    margin: 0;
 }
-#AdvancedButton4
-{
-   border: 2px solid #FF0000;
-   border-radius: 5px;
-   background-color: #3370B7;
-   background-image: none;
-   margin: 0;
-}
 #wb_Line4
 {
    font-size: 0;
@@ -108,26 +100,6 @@ body
    height: 82px;
    width: 9px;
 }
-#Иван
-{
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
-#Вера_Гавр
-{
-   border: 0px solid #000000;
-   padding: 0;
-   margin: 0;
-   left: 0;
-   top: 0;
-   width: 100%;
-   height: 100%;
-}
 #Shape1
 {
    border-width: 0;
@@ -140,4 +112,32 @@ body
    background-color: #3370B7;
    background-image: none;
    margin: 0;
+}
+#AdvancedButton7
+{
+   border: 1px solid #FF0000;
+   border-radius: 4px;
+   background-color: #4169E1;
+   background-image: none;
+   margin: 0;
+}
+#Вера_Гавр
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Иван
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
 }
