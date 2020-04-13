@@ -152,7 +152,7 @@ body
 #AdvancedButton11
 {
    border: 2px solid #FF0000;
-   border-radius: 6px;
+   border-radius: 7px;
    background-color: #4682B4;
    background-image: none;
    margin: 0;
@@ -253,7 +253,7 @@ body
    left: 0;
    top: 0;
    background-color: #FFFFFF;
-   border: 1px solid #CCCCCC;
+   border: 2px solid #FFA500;
    border-radius: 50%;
 }
 #wb_RadioButton1 label::after
@@ -328,7 +328,7 @@ body
    left: 0;
    top: 0;
    background-color: #FFFFFF;
-   border: 1px solid #CCCCCC;
+   border: 2px solid #FFA500;
    border-radius: 50%;
 }
 #wb_RadioButton2 label::after
@@ -403,7 +403,7 @@ body
    left: 0;
    top: 0;
    background-color: #FFFFFF;
-   border: 1px solid #CCCCCC;
+   border: 2px solid #FFA500;
    border-radius: 50%;
 }
 #wb_RadioButton3 label::after
@@ -478,7 +478,7 @@ body
    left: 0;
    top: 0;
    background-color: #FFFFFF;
-   border: 1px solid #CCCCCC;
+   border: 2px solid #FFA500;
    border-radius: 50%;
 }
 #wb_RadioButton4 label::after
@@ -628,7 +628,7 @@ body
    left: 0;
    top: 0;
    background-color: #FFFFFF;
-   border: 1px solid #CCCCCC;
+   border: 2px solid #FFA500;
    border-radius: 50%;
 }
 #wb_RadioButton6 label::after
@@ -758,7 +758,7 @@ body
    left: 0;
    top: 0;
    background-color: #FFFFFF;
-   border: 1px solid #CCCCCC;
+   border: 2px solid #FFA500;
    border-radius: 50%;
 }
 #wb_RadioButton7 label::after

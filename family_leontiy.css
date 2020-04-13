@@ -40,40 +40,40 @@ body
 }
 #AdvancedButton1
 {
-   border: 1px solid #FF0000;
-   border-radius: 4px;
+   border: 2px solid #FF0000;
+   border-radius: 5px;
    background-color: #4682B4;
    background-image: none;
    margin: 0;
 }
 #AdvancedButton2
 {
-   border: 1px solid #FF0000;
-   border-radius: 4px;
+   border: 2px solid #FF0000;
+   border-radius: 5px;
    background-color: #4682B4;
    background-image: none;
    margin: 0;
 }
 #AdvancedButton3
 {
-   border: 1px solid #FF0000;
-   border-radius: 4px;
+   border: 2px solid #FF0000;
+   border-radius: 5px;
    background-color: #4682B4;
    background-image: none;
    margin: 0;
 }
 #AdvancedButton4
 {
-   border: 1px solid #FF0000;
-   border-radius: 4px;
+   border: 2px solid #FF0000;
+   border-radius: 5px;
    background-color: #4682B4;
    background-image: none;
    margin: 0;
 }
 #AdvancedButton6
 {
-   border: 1px solid #FF0000;
-   border-radius: 4px;
+   border: 2px solid #FF0000;
+   border-radius: 5px;
    background-color: #4682B4;
    background-image: none;
    margin: 0;
@@ -136,24 +136,24 @@ body
 }
 #AdvancedButton7
 {
-   border: 1px solid #FF0000;
-   border-radius: 4px;
+   border: 2px solid #FF0000;
+   border-radius: 5px;
    background-color: #4682B4;
    background-image: none;
    margin: 0;
 }
 #AdvancedButton8
 {
-   border: 1px solid #FF0000;
-   border-radius: 4px;
+   border: 2px solid #FF0000;
+   border-radius: 5px;
    background-color: #4682B4;
    background-image: none;
    margin: 0;
 }
 #AdvancedButton9
 {
-   border: 1px solid #FF0000;
-   border-radius: 4px;
+   border: 2px solid #FF0000;
+   border-radius: 5px;
    background-color: #4682B4;
    background-image: none;
    margin: 0;
@@ -233,7 +233,7 @@ body
    left: 0;
    top: 0;
    background-color: #FFFFFF;
-   border: 1px solid #CCCCCC;
+   border: 2px solid #FFA500;
    border-radius: 50%;
 }
 #wb_RadioButton1 label::after
@@ -308,7 +308,7 @@ body
    left: 0;
    top: 0;
    background-color: #FFFFFF;
-   border: 1px solid #CCCCCC;
+   border: 2px solid #FFA500;
    border-radius: 50%;
 }
 #wb_RadioButton2 label::after
@@ -383,7 +383,7 @@ body
    left: 0;
    top: 0;
    background-color: #FFFFFF;
-   border: 1px solid #CCCCCC;
+   border: 2px solid #FFA500;
    border-radius: 50%;
 }
 #wb_RadioButton3 label::after

@@ -195,7 +195,7 @@ body
    left: 0;
    top: 0;
    background-color: #FFFFFF;
-   border: 1px solid #CCCCCC;
+   border: 2px solid #FFA500;
    border-radius: 50%;
 }
 #wb_RadioButton1 label::after
@@ -270,7 +270,7 @@ body
    left: 0;
    top: 0;
    background-color: #FFFFFF;
-   border: 1px solid #CCCCCC;
+   border: 2px solid #FFA500;
    border-radius: 50%;
 }
 #wb_RadioButton2 label::after
@@ -345,7 +345,7 @@ body
    left: 0;
    top: 0;
    background-color: #FFFFFF;
-   border: 1px solid #CCCCCC;
+   border: 2px solid #FFA500;
    border-radius: 50%;
 }
 #wb_RadioButton3 label::after
@@ -420,7 +420,7 @@ body
    left: 0;
    top: 0;
    background-color: #FFFFFF;
-   border: 1px solid #CCCCCC;
+   border: 2px solid #FFA500;
    border-radius: 50%;
 }
 #wb_RadioButton4 label::after
@@ -461,41 +461,41 @@ body
 }
 #AdvancedButton3
 {
-   border: 1px solid #FF0000;
-   border-radius: 4px;
-   background-color: #4682B4;
+   border: 2px solid #FF0000;
+   border-radius: 5px;
+   background-color: #4169E1;
    background-image: none;
    margin: 0;
 }
 #AdvancedButton1
 {
-   border: 1px solid #FF0000;
-   border-radius: 4px;
-   background-color: #4682B4;
+   border: 2px solid #FF0000;
+   border-radius: 5px;
+   background-color: #4169E1;
    background-image: none;
    margin: 0;
 }
 #AdvancedButton2
 {
-   border: 1px solid #FF0000;
-   border-radius: 4px;
-   background-color: #4682B4;
+   border: 2px solid #FF0000;
+   border-radius: 6px;
+   background-color: #4169E1;
    background-image: none;
    margin: 0;
 }
 #AdvancedButton4
 {
-   border: 1px solid #FF0000;
-   border-radius: 4px;
-   background-color: #4682B4;
+   border: 2px solid #FF0000;
+   border-radius: 5px;
+   background-color: #4169E1;
    background-image: none;
    margin: 0;
 }
 #AdvancedButton5
 {
-   border: 1px solid #FF0000;
-   border-radius: 4px;
-   background-color: #4682B4;
+   border: 2px solid #FF0000;
+   border-radius: 5px;
+   background-color: #4169E1;
    background-image: none;
    margin: 0;
 }
