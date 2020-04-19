@@ -29,14 +29,6 @@ body
    border-width: 0;
    vertical-align: top;
 }
-#AdvancedButton1
-{
-   border: 2px solid #DC143C;
-   border-radius: 5px;
-   background-color: #3370B7;
-   background-image: none;
-   margin: 0;
-}
 #AdvancedButton2
 {
    border: 2px solid #FF0000;
@@ -118,6 +110,14 @@ body
    border-width: 0;
    height: 76px;
    width: 8px;
+}
+#AdvancedButton1
+{
+   border: 2px solid #DC143C;
+   border-radius: 5px;
+   background-color: #3370B7;
+   background-image: none;
+   margin: 0;
 }
 #wb_Line6
 {
@@ -305,6 +305,46 @@ body
    vertical-align: top;
 }
 #Тимоф_Тит
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Агафья
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Анна_Тим_Агаф
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Агафья_семья
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Агафья_семья1
 {
    border: 0px solid #000000;
    padding: 0;
