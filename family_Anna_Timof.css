@@ -106,14 +106,6 @@ body
    height: 74px;
    width: 8px;
 }
-#AdvancedButton1
-{
-   border: 2px solid #FF0000;
-   border-radius: 4px;
-   background-color: #3370B7;
-   background-image: none;
-   margin: 0;
-}
 #wb_Line6
 {
    font-size: 0;
@@ -238,4 +230,12 @@ body
    top: 0;
    width: 100%;
    height: 100%;
+}
+#AdvancedButton1
+{
+   border: 2px solid #FF0000;
+   border-radius: 4px;
+   background-color: #3370B7;
+   background-image: none;
+   margin: 0;
 }
